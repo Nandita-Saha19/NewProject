@@ -1,3 +1,3 @@
 def capital(text):
-    print("capital")
+    print("capitall")
     return text.capitalize()
